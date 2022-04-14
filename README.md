@@ -19,7 +19,11 @@ Before running any of the notebooks located in this repository, you'll want to i
 * `pip install yellowbrick`
 * `pip install kneed`
 
-`pip install -r requirements.txt`
+These packages are also all be downloaded at once via the following command in your terminal: 
+
+* `pip install -r requirements.txt`
+
+*You must be in the repository directory for this to work.*
 
 ## Data
 
