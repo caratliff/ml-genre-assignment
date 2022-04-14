@@ -7,7 +7,19 @@
 
 ## Required Packages
 
-`requirements.txt`
+Before running any of the notebooks located in this repository, you'll want to install the following packges via terminal:
+
+* `pip install plotly`
+* `pip install matplotlib`
+* `pip install sklearn`
+* `pip install pandas`
+* `pip install seaborn`
+* `pip install pylab`
+* `pip install numpy`
+* `pip install yellowbrick`
+* `pip install kneed`
+
+`pip install -r requirements.txt`
 
 ## Data
 
