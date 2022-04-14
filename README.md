@@ -1,5 +1,11 @@
 # Model Based Approach to Music Genre Assignment
 
+```
+10_clustering
+
+20_classification
+```
+
 ## Required Packages
 
 ```
