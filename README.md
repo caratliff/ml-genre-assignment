@@ -1,6 +1,6 @@
 # Model Based Approach to Music Genre Assignment
 
-## Requirements
+## Required Packages
 
 ```
 requirements.txt
