@@ -1,21 +1,18 @@
 # Model Based Approach to Music Genre Assignment
 
-```
-10_clustering
+`10_clustering`
 
-20_classification
-```
+`20_classification`
+
 
 ## Required Packages
 
-```
-requirements.txt
-```
+`requirements.txt`
+
 ## Data
 
-```
-00_raw_data/spotify_songs.csv
-```
+`00_raw_data/spotify_songs.csv`
+
 ## Flow Chart
 
 <img src="40_assets/flow-chart.jpg" width=600 height=800>
