@@ -1,6 +1,6 @@
 # Model-Based Approach to Music Genre Assignment
 
-Musical genre classification is not an easy task, so Unsupervised and Supervised Machine Learning are utilizied as tools to construct a model for clustering music based on audio features. This approach aims to remove humans and better genre assign the songs of tomorrow.
+Musical genre classification is not an easy task, so Unsupervised and Supervised Machine Learning are utilizied as tools to construct a model for clustering music based on audio features. The approach aims to remove humans and better assign genres using technical features of the songs of tomorrow.
 
 [YouTube: Model Based Approach to Genre Assignment](https://www.youtube.com/watch?v=6-7XFk4KC9M)
 
